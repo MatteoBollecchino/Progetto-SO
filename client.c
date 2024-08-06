@@ -10,7 +10,7 @@
 #include "funzioniClient.h"
 
 int main(int argc, char *argv[]){
-
+ 
     /*void (*oldHandlerInt) (int); 
     oldHandlerInt = signal(SIGINT,SIG_IGN);*/
 
